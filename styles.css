@@ -1,5 +1,8 @@
 body {
     text-align: center;
+    background: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
@@ -37,4 +40,16 @@ td {
 
 input[type=number] {
     width: 6em;
+}
+.btn {
+    background-color: green;
+    color: white;
+    border-radius: 0 10px;
+    padding: 0.5rem 1rem;
+}
+
+.btn:hover {
+    background-color: white;
+    color: gray;
+    transition: .2s;
 }
