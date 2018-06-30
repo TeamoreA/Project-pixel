@@ -1,10 +1,13 @@
 # Pixel Art Maker Project
 
 ## Table of Contents
-
+* [Hosting](#hosting)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [How To Install](how_to_install)
+* [How To Install](#how_to_install)
+
+## Hosting
+This project has been hosted at github pages using this [link](https://teamorea.github.io/Project-pixel/).
 
 ## Instructions
 
